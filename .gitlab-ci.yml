@@ -1,6 +1,8 @@
 stages:
   - publish
 
+image: node:10.18.0
+
 npm-publish:
   stage: publish
   script:
