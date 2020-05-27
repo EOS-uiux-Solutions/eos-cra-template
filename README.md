@@ -33,4 +33,4 @@ Send a PR to this repo and explain the improvement/feature you are adding.
 
 - [Follow us on Twitter](https://twitter.com/eosdesignsystem)
 
-- [Join us in Slack](https://eos-community.slack.com/)
+- [Join us in Slack](http://slack.eosdesignsystem.com/)
