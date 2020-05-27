@@ -1,3 +1,6 @@
+![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
+![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)
+
 # EOS CRA template
 
 This is EOS's template for [Create React App](https://github.com/facebook/create-react-app).
@@ -7,7 +10,6 @@ This is EOS's template for [Create React App](https://github.com/facebook/create
 ```sh
 npx create-react-app my-app --template eos
 ```
-
 
 ## This application contains the basic configuration from a create-react-app plus:
 
@@ -22,3 +24,13 @@ npx create-react-app my-app --template eos
 ### Contribute
 
 Send a PR to this repo and explain the improvement/feature you are adding.
+
+# Learn more about EOS
+
+- [EOS Design System](https://www.eosdesignsystem.com/)
+
+- [EOS Icons](icons.eosdesignsystem.com/)
+
+- [Follow us on Twitter](https://twitter.com/eosdesignsystem)
+
+- [Join us in Slack](https://eos-community.slack.com/)
