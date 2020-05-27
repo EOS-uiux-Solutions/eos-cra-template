@@ -1,8 +1,19 @@
 {
   "name": "cra-template-eos",
   "version": "1.0.1",
-  "keywords": ["react", "create-react-app", "template"],
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "boilerplate"
+  ],
   "description": "The custom template for EOS + Create React App.",
+  "devDependencies": {
+    "@semantic-release/git": "^5.0.0",
+    "@semantic-release/gitlab": "^2.1.4",
+    "conventional-changelog-eslint": "^1.0.9",
+    "semantic-release": "^15.14.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://gitlab.com/SUSE-UIUX/cra-template-eos.git"
@@ -15,5 +26,8 @@
   "bugs": {
     "url": "https://gitlab.com/SUSE-UIUX/cra-template-eos.git"
   },
-  "files": ["template", "template.json"]
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
