@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EOS-uiux-Solutions/eos-cra-template"
+    "url": "https://github.com/EOS-uiux-Solutions/eos-cra-template.git"
   },
   "license": "MIT",
   "main": "template.json",
@@ -28,7 +28,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/EOS-uiux-Solutions/eos-cra-template"
+    "url": "https://github.com/EOS-uiux-Solutions/eos-cra-template.git"
   },
   "files": [
     "template",
