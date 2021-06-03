@@ -1,6 +1,6 @@
 verifyConditions:
   - '@semantic-release/npm'
-  - '@semantic-release/gitlab'
+  - '@semantic-release/github'
 prepare:
   - '@semantic-release/npm'
   -
@@ -11,7 +11,7 @@ prepare:
     message: 'Release: ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}'
 publish:
   - '@semantic-release/npm'
-  - '@semantic-release/gitlab'
+  - '@semantic-release/github'
 success: false
 fail: false
 analyzeCommits:
