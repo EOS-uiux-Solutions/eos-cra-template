@@ -25,12 +25,13 @@ npx create-react-app my-app --template eos
 
 Send a PR to this repo and explain the improvement/feature you are adding.
 
-# Learn more about EOS
+## Learn more about the EOS UX/UI Solutions
 
-- [EOS Design System](https://www.eosdesignsystem.com/)
+- [EOS Icons](https://eos-icons.com)
 
-- [EOS Icons](icons.eosdesignsystem.com/)
+- [EOS User Story](https://userstory.site)
 
-- [Follow us on Twitter](https://twitter.com/eosdesignsystem)
+- [Follow us on Twitter](https://twitter.com/eos_uxui)
 
-- [Join us in Slack](http://slack.eosdesignsystem.com/)
+- [Join us on Slack](https://slack.userstory.site)
+
